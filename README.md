@@ -1,4 +1,6 @@
-# Individual Assignment
+# DSCI_532_individual-assignment_gkaur201
+
+DSCI 532 individual-assignment for gunisha kaur (gkaur201)
 
 ## Motivation
 
@@ -8,9 +10,9 @@ The global music industry thrives on understanding user preferences and engageme
 
 ## App Description
 
-A short video walkthrough of the app demonstrating its features, target audience, and functionalities can be accessed here <link>
+A short video walkthrough of the app demonstrating its features, target audience, and functionalities can be accessed here [![Video link](https://github.ubc.ca/mds-2024-25/DSCI_532_individual-assignment_gkaur201/blob/master/img/demo.mp4)] or if file is large please click on this link [![Watch the Video](https://drive.google.com/file/d/13DDF8NCmBvqu8NSjdsjOawR48GnqH-V2/view?usp=drive_link)] it will direct you to google drive.
 
-## Instalation Instruction
+## Instalation Instructions
 
 1. Clone the repository:  
 
