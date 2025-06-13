@@ -1,6 +1,6 @@
-# DSCI_532_individual-assignment_gkaur201
+# DSCI_532_Music_dashboard
 
-DSCI 532 individual-assignment for gunisha kaur (gkaur201)
+Music dashboard
 
 ## Motivation
 
