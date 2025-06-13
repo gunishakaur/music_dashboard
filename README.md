@@ -1,6 +1,4 @@
-# DSCI_532_Music_dashboard
-
-Music dashboard
+# Music Analytics Dashboard
 
 ## Motivation
 
